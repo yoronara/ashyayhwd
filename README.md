@@ -3,9 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Luana+Czank;I'm+19+years+old;I'm+from+Brazil;I+study+Systems+Analysis+and+Development;Be+Welcome!+^_^)](https://git.io/typing-svg)
 
 <div align="center">  
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luaczank&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Luana Czank github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luaczank&layout=compact&hide_border=true&title_color=ff91a4&text_color=00FFFF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luaczank&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=5bbebc&text_color=c9d1d9&bg_color=0d1117" alt="Luana Czank github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luaczank&layout=compact&hide_border=true&title_color=5bbebc&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 <div align="center"> 
