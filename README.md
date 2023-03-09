@@ -19,7 +19,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML5](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![mySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=purple&labelColor=0D1117)&nbsp; 
-![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=purple&labelColor=0D1117)&nbsp; 
   
   
 ### Studying in this moment:
